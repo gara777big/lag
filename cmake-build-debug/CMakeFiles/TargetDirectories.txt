@@ -1,0 +1,3 @@
+C:/Users/garar/CLionProjects/scotMaers/cmake-build-debug/CMakeFiles/scotMaers.dir
+C:/Users/garar/CLionProjects/scotMaers/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/garar/CLionProjects/scotMaers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
